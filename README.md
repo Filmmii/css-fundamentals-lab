@@ -2,10 +2,15 @@
 
 # Part 1
 git clone <your-repo-url>
+
 cd css-fundamentals-lab
+
 code .
+
 git add .
+
 git commit -m "init project"
+
 git push origin main
 
 # Part 2
